@@ -1,5 +1,3 @@
---i make open source because its shit and there are few players, then u can skidd me only pls do credit :heart:
-
 local _ENV = (getgenv or getrenv or getfenv)()
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
